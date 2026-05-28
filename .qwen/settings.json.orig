@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init)",
+      "Bash(go *)",
+      "Bash(git log *)",
+      "Bash(true)",
+      "Bash(git add *)"
+    ]
+  },
+  "$version": 4
+}
