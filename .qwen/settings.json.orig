@@ -5,7 +5,8 @@
       "Bash(go *)",
       "Bash(git log *)",
       "Bash(true)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git commit *)"
     ]
   },
   "$version": 4
